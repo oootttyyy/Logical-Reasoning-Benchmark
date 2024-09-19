@@ -1,0 +1,2 @@
+{'query': '本题包含两套图形和可供选择的 4 个图形。这两套图形具有某种相似性，也存在某种差异。要求你从四个选项中选择最适合取代问号的一个。 正确的答案应不仅使两套图形表现出最大的相似性，而且使第二套图形也表现出自己的特征。', 'answer':'A'}
+{'query': 'This question contains two sets of graphics and 4 graphics to choose from. The two sets of graphics have certain similarities and also certain differences. You are required to choose the one that best replaces the question mark from the four options. The correct answer should not only make the two sets of graphics show the greatest similarity, but also make the second set of graphics show its own characteristics.', 'answer':'A'}
